@@ -8,9 +8,11 @@ Hello! This is the easy MVC app for planning workout days in a gym!
 
 2) Run composer update.
 
-3) Set database parameters in app/config/database.php file.
+3) Create a mysql database and export dump file from app/db folder.
 
-4) Set mail parameters in app/config/mail.php file.
+4) Set database parameters in app/config/database.php file.
+
+5) Set mail parameters in app/config/mail.php file.
 
 <h3>Usage:</h3>
 
