@@ -5,7 +5,7 @@ namespace App\Core;
 class App {
 	
 	/** @var string|Controller $controller The default controller as a string and later the Controller itself as an object. */
-	protected $controller = "HomeController";
+	protected $controller = "PlanController";
 
 	/** @var string $method The default controller's message. */
 	protected $method = "index";
